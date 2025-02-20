@@ -1202,7 +1202,7 @@ ul.info li {
   position: relative;
   z-index: 2;
   background-color: #212136;
-  background-image: url(img/bg.svg), url(img/bor.png);
+  background-image: url(../img/bg.svg), url(../img/bor.png);
   background-size: cover;
 }
 
